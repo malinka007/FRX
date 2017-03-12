@@ -61,7 +61,6 @@ obj/
 .idea/
 *.swp
 .vscode/
-.vs/
 
 /src/**/*.js
 /src/**/*.js.map
